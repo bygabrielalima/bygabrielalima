@@ -7,8 +7,9 @@
 <h2 align="center">✦ Um pouco sobre mim ✦</h2>
 
 <p align="center">
-  Sou estudante do Ensino Médio Integrado ao Técnico em Informática no IF Sertão-PE,
-  com interesse em desenvolvimento de software, desenvolvimento web e banco de dados.
+ Técnica em Informática pelo IF Sertão-PE
+   <br>
+ Desenvolvimento de software | Desenvolvimento web | banco de dados.
 </p>
 
 ---
