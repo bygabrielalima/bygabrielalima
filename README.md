@@ -47,21 +47,40 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
-📌 Projetos
 
-Aqui você encontrará projetos acadêmicos, pessoais e de extensão desenvolvidos durante minha formação em Informática.
+## 📌 Projetos em destaque
 
-Entre os projetos, estão aplicações e sistemas envolvendo:
+### 🌐 Letramento Digital
 
-🌐 Desenvolvimento Web
+Projeto de extensão desenvolvido no **IF Sertão-PE**, com foco no ensino de informática, tecnologias digitais e cidadania digital para estudantes de escolas públicas.
 
-🐍 Python e Django
+**Tecnologias:** HTML, CSS, JavaScript, Python, Django e SQL.
 
-⚙️ PHP e Laravel
+---
 
-🗄️ Banco de dados e SQL
+### 🐍 Letramento Digital — Django
 
-💻 Tecnologia aplicada à educação
+Aplicação desenvolvida com **Django** para apoiar a organização e gerenciamento das atividades do projeto de Letramento Digital.
+
+**Tecnologias:** Python, Django, HTML, CSS, JavaScript e SQL.
+
+---
+
+### ⚙️ Projetos Web
+
+Projetos desenvolvidos durante minha formação técnica, envolvendo criação de páginas, sistemas web, back-end e integração com banco de dados.
+
+**Tecnologias:** HTML, CSS, JavaScript, PHP, Laravel e MySQL.
+
+---
+
+### 🗄️ Banco de Dados
+
+Projetos e atividades envolvendo modelagem, consultas e gerenciamento de bancos de dados utilizando **SQL e MySQL**.
+
+---
+
+🔎 Mais projetos e experimentos podem ser encontrados nos meus repositórios.
 
 📚 Atualmente
 
