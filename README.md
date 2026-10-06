@@ -1,12 +1,18 @@
-# Olá! 👋 Eu sou Gabriela Lima
+# 👋 Olá! Eu sou Gabriela Lima
 
-### 💻 Técnica em Informática | Desenvolvedora em formação
+### 💻 Desenvolvedora em formação | Técnica em Informática
 
 🎓 Ensino Médio Integrado ao Técnico em Informática — IF Sertão-PE  
+💻 Desenvolvimento Web • Software • Banco de Dados  
+🚀 Transformando aprendizado em projetos e experiências reais
 
-🚀 Desenvolvimento de Software • Desenvolvimento Web • Banco de Dados
+---
 
-## 🧑‍💻 Sobre mim
+<p align="center">
+  <img src="./banner.png" alt="Gabriela Lima - Informática, Software, Web e Database">
+</p>
+
+---
 
 ## 🧑‍💻 Sobre mim
 
