@@ -18,26 +18,35 @@
 
 💻 Tecnologias e conhecimentos
 
-Linguagens
+### 💻 Linguagens
 
-C Python JavaScript PHP Dart SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,php,dart,mysql" />
+</p>
 
-Desenvolvimento Web
+### 🌐 Desenvolvimento Web
 
-HTML CSS JavaScript Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
+</p>
 
-Frameworks
+### ⚙️ Frameworks
 
-Django Laravel
+<p>
+  <img src="https://skillicons.dev/icons?i=django,laravel" />
+</p>
 
-Banco de Dados
+### 🗄️ Banco de Dados
 
-MySQL SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-Ferramentas
+### 🛠️ Ferramentas
 
-Git GitHub Linux XAMPP
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
 📌 Projetos
 
 Aqui você encontrará projetos acadêmicos, pessoais e de extensão desenvolvidos durante minha formação em Informática.
