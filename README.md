@@ -48,42 +48,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
-## 📌 Projetos em destaque
 
-### 🌐 Letramento Digital
+## 📫 Onde me encontrar
 
-Projeto de extensão desenvolvido no **IF Sertão-PE**, com foco no ensino de informática, tecnologias digitais e cidadania digital para estudantes de escolas públicas.
-
-**Tecnologias:** HTML, CSS, JavaScript, Python, Django e SQL.
-
----
-
-### 🐍 Letramento Digital — Django
-
-Aplicação desenvolvida com **Django** para apoiar a organização e gerenciamento das atividades do projeto de Letramento Digital.
-
-**Tecnologias:** Python, Django, HTML, CSS, JavaScript e SQL.
-
----
-
-### ⚙️ Projetos Web
-
-Projetos desenvolvidos durante minha formação técnica, envolvendo criação de páginas, sistemas web, back-end e integração com banco de dados.
-
-**Tecnologias:** HTML, CSS, JavaScript, PHP, Laravel e MySQL.
-
----
-
-### 🗄️ Banco de Dados
-
-Projetos e atividades envolvendo modelagem, consultas e gerenciamento de bancos de dados utilizando **SQL e MySQL**.
-
----
-
-🔎 Mais projetos e experimentos podem ser encontrados nos meus repositórios.
-
-📚 Atualmente
-
-Estou ampliando meus conhecimentos em desenvolvimento de software, banco de dados e tecnologias Web, buscando transformar cada aprendizado em novos projetos.
-
-⭐ Obrigada por visitar meu perfil!
+<p>
+  <a href="https://github.com/bygabrielalima">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://lattes.cnpq.br/4494511371436174">
+    <img src="https://img.shields.io/badge/Currículo_Lattes-1F4E79?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo Lattes">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriela-lima-3486343a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
