@@ -1,92 +1,65 @@
-# 👋 Olá! Eu sou Gabriela Lima
-
-### 💻 Desenvolvedora em formação | Técnica em Informática
-
-🎓 Ensino Médio Integrado ao Técnico em Informática — IF Sertão-PE  
-💻 Desenvolvimento Web • Software • Banco de Dados  
-🚀 Transformando aprendizado em projetos e experiências reais
+<p align="center">
+  <img src="./banner.png" alt="Gabriela Lima">
+</p>
 
 ---
+
+<h2 align="center">✦ Um pouco sobre mim ✦</h2>
 
 <p align="center">
-  <img src="./banner.png" alt="Gabriela Lima - Informática, Software, Web e Database">
+  Sou estudante do Ensino Médio Integrado ao Técnico em Informática no IF Sertão-PE,
+  com interesse em desenvolvimento de software, desenvolvimento web e banco de dados.
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+<h2 align="center">✦ Tecnologias ✦</h2>
 
-Sou estudante do Ensino Médio Integrado ao Técnico em Informática no **IF Sertão-PE**, com interesse em **desenvolvimento de software, desenvolvimento web e banco de dados**.
-
-Durante minha formação, venho desenvolvendo projetos acadêmicos e pessoais, buscando transformar os conhecimentos adquiridos em aplicações práticas.
-
-Também participo de projetos de extensão relacionados à tecnologia e educação, tendo a oportunidade de aplicar meus conhecimentos em situações reais.
-
-Atualmente, busco continuar evoluindo como desenvolvedora, aprendendo novas tecnologias e aprimorando a forma como desenvolvo meus projetos.
-
-### 💻 Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,php,dart,mysql" />
+<p align="center">
+  <b>Linguagens</b>
 </p>
 
-### 🌐 Desenvolvimento Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,php,dart" />
 </p>
 
-### ⚙️ Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,laravel" />
+<p align="center">
+  <b>Web & Frameworks</b>
 </p>
 
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django,laravel" />
 </p>
 
-### 🛠️ Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+<p align="center">
+  <b>Banco de Dados & Ferramentas</b>
 </p>
 
-## 💻 Tecnologias e conhecimentos
-
-### 🧠 Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,php,dart,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux" />
 </p>
 
-### 🌐 Desenvolvimento Web
+<h2 align="center">✦ Experiências ✦</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
+<p align="center">
+  🧑‍🏫 <b>Letramento Digital</b> — Projeto de extensão do IF Sertão-PE
+  <br>
+  Atuação como bolsista, participando do planejamento e realização de
+  palestras e oficinas sobre tecnologia e educação digital.
 </p>
 
-### ⚙️ Frameworks
+<h2 align="center">✦ Projetos ✦</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=django,laravel" />
+<p align="center">
+  Alguns dos projetos que desenvolvi durante minha formação em Informática,
+  explorando desenvolvimento web, software e banco de dados.
 </p>
 
-### 🛠️ Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+<p align="center">
+  🌐 <b>Desenvolvimento Web</b> • 🐍 <b>Python & Django</b> •
+  🐘 <b>PHP & Laravel</b> • 🗄️ <b>Banco de Dados</b>
 </p>
 
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-## 📌 Projetos e experiências
 
 ### 💻 Desenvolvimento Web e Software
 
@@ -106,16 +79,20 @@ Desenvolvimento de atividades e aplicações envolvendo **modelagem, consultas e
 
 Desenvolvimento de projetos e atividades práticas durante minha formação técnica, explorando diferentes linguagens, frameworks e ferramentas de desenvolvimento.
 
-## 📫 Onde me encontrar
+<h2 align="center">✦ Onde me encontrar ✦</h2>
 
-<p>
+<p align="center">
   <a href="https://github.com/bygabrielalima">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://lattes.cnpq.br/4494511371436174">
-    <img src="https://img.shields.io/badge/Currículo_Lattes-1F4E79?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo Lattes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/gabriela-lima-3486343a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://lattes.cnpq.br/4494511371436174">
+    <img src="https://img.shields.io/badge/Lattes-1F4E79?style=flat-square&logo=readme&logoColor=white" alt="Currículo Lattes">
+  </a>
+</p>
+
+<p align="center">
+  <sub>✦ Obrigada por visitar meu perfil ✦</sub>
 </p>
